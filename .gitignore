@@ -1,0 +1,4 @@
+similarity.pkl
+movie_dict.pkl
+*.pkl
+.idea/
